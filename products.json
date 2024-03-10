@@ -1,0 +1,71 @@
+[
+    { 
+        "name": "avocado toast",
+        "description": "half avocado sliced, chives, black salt, and lemon zest on fresh tuscan bread",
+        "price": "$8.50",
+        "categories": ["vegan"]
+    },
+
+    { 
+        "name": "fig + ricotta toast",
+        "description": "whipped ricotta, dried figs, arugula, spicy honey, balsamic, and pumpkin seeds on fresh tuscan bread",
+        "price": "$10.50",
+        "categories": ["vegan", "must-try!"]
+    },
+
+    { 
+        "name": "eggs + smoked salmon toast",
+        "description": "soft scrambled eggs, norwegian smoked salmon, and fresh herbs on fresh tuscan bread",
+        "price": "$10.50",
+        "categories": ["non-vegan"]
+    },
+
+    { 
+        "name": "turkey + brie sandwich",
+        "description": "arugula, bacon, and turkish fig jam on fresh tuscan bread",
+        "price": "$12.50",
+        "categories": ["non-vegan"]
+    },
+
+    { 
+        "name": "tuna melt sandwich",
+        "description": "dill tuna salad and havarti on fresh tuscan bread",
+        "price": "$9.50",
+        "categories": ["non-vegan"]
+    },
+
+    { 
+        "name": "grilled cheese sandwich",
+        "description": "havarti, turkish fig jam, and spicy honey on fresh tuscan bread",
+        "price": "$8.50",
+        "categories": ["vegan", "must-try!"]
+    },
+
+    { 
+        "name": "egg + cheese sandwich",
+        "description": "havarti and egg on your choice of croissant, bagel, brioche, or tuscan bread",
+        "price": "$7.50",
+        "categories": ["vegan"]
+    },
+
+    { 
+        "name": "fig + ricotta toast",
+        "description": "whipped ricotta, dried figs, arugula, spicy honey, balsamic, and pumpkin seeds on fresh tuscan bread",
+        "price": "$10.50",
+        "categories": ["vegan", "must-try!"]
+    },
+
+    { 
+        "name": "croissant prosciutto + egg sandwich",
+        "description": "prosciutto di parma, havarti, and poached easy egg on fresh tuscan bread",
+        "price": "$9.50",
+        "categories": ["non-vegan", "must-try!"]
+    },
+
+    { 
+        "name": "breakfast burrito",
+        "description": "soft scrambled eggs, havarti, bacon, avocado, and chives wrapped in flour burrito",
+        "price": "$9.50",
+        "categories": ["non-vegan"]
+    }
+]

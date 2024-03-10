@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>the good brekkie</title>
+</head>
+<body>
+    <div id="cafe_name">the good brekkie</div>
+    <div id="tagline">start the day with a warm bowl of comfort.</div>
+    <div id="products"></div>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</body>
+<script>
+    $(document).ready(function() {
+        var products = $("#products");
+
+        $.get("https://patriciac.sgedu.site/cs20/hw7/products.json", function(data) {
+            data.forEach(item => {
+                const product = $("<div>").addClass("product-item");
+
+                product.html(`
+                    <h2>${item.name}</h2>
+                    <p>${item.description}</p>
+                    <p>${item.price}</p>
+                    <p>${item.categories.join(', ')}</p>
+                `);
+
+                console.log(product);
+
+                products.append(product);
+            });
+        });
+    });
+</script>
+</html>
