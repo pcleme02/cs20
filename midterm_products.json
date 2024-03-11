@@ -1,0 +1,64 @@
+[
+    { 
+        "name": "beesting",
+        "description": "a lovely blend of cinnamon latte and honey, offering a harmonious balance of warmth and sweetness in every sip",
+        "price": ["small - $4.50", "medium - $5.00", "large - $5.50"],
+        "category": "bestseller"
+    },
+
+    { 
+        "name": "blossom",
+        "description": "offers a delicate blend of vanilla latte infused with the subtle essence of rose, creating a fragrant and delightful beverage",
+        "price": ["small - $4.50", "medium - $5.00", "large - $5.50"],
+        "category": "must-try"
+    },
+
+    { 
+        "name": "cloud nine",
+        "description": "a serene blend of chamomile latte with honey and vanilla, offering a comforting and blissful experience with every sip",
+        "price": ["small - $4.50", "medium - $5.00", "large - $5.50"],
+        "category": "must-try"
+    },
+
+    { 
+        "name": "cinny vanilly",
+        "description": "combines the warmth of cinnamon latte with the smoothness of vanilla, creating a deliciously comforting beverage",
+        "price": ["small - $4.50", "medium - $5.00", "large - $5.50"],
+        "category": "must-try"
+    },
+
+    { 
+        "name": "hot karl",
+        "description": "a lovely blend of cinnamon latte and honey, offering a harmonious balance of warmth and sweetness in every sip",
+        "price": ["small - $4.50", "medium - $5.00", "large - $5.50"],
+        "category": "must-try"
+    },
+
+    { 
+        "name": "lucy in the chai",
+        "description": "a lovely blend of cinnamon latte and honey, offering a harmonious balance of warmth and sweetness in every sip",
+        "price": ["small - $4.50", "medium - $5.00", "large - $5.50"],
+        "category": "bestseller"
+    },
+
+    { 
+        "name": "medford fog",
+        "description": "a lovely blend of cinnamon latte and honey, offering a harmonious balance of warmth and sweetness in every sip",
+        "price": ["small - $4.50", "medium - $5.00", "large - $5.50"],
+        "category": "must-try"
+    },
+
+    { 
+        "name": "soylent green",
+        "description": "a lovely blend of cinnamon latte and honey, offering a harmonious balance of warmth and sweetness in every sip",
+        "price": ["small - $4.50", "medium - $5.00", "large - $5.50"],
+        "category": "must-try"
+    },
+
+    { 
+        "name": "strawberry matcha",
+        "description": "a lovely blend of cinnamon latte and honey, offering a harmonious balance of warmth and sweetness in every sip",
+        "price": ["small - $5.50", "medium - $6.00", "large - $6.50"],
+        "category": "limited edition"
+    }
+]
